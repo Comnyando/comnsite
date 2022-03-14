@@ -8,19 +8,24 @@
 	"compatibleCoreVersion": "9",
 
 	"esmodules": [
-		
+		"src/activeLighting.js",
+		"src/updateManager.js"
 	],
 	"packs": [
 		{
-			
+			"name": "Token Effects Premade",
+			"label": "Token Effects premade",
+			"path": "packs/premade",
+			"system" : "dnd5e",
+			"entity": "Item",
+			"module": "ATL"
 		}
 	],
 	"styles": [
 		"/styles/ATL.css"
 	  ],
-	"url": "",
-	"manifest": "",
-	"download": "",
-	"allowBugReporter": false,
-	"bugs": ""
-}
+	"url": "https://github.com/kandashi/Active-Token-Lighting",
+	"manifest": "https://raw.githubusercontent.com/kandashi/Active-Token-Lighting/main/module.json",
+	"download": "https://github.com/kandashi/Active-Token-Lighting/archive/main.zip",
+	"allowBugReporter": true,
+	"bugs": "https://github.com/kandashi/Active-Token-Lighting/issues"
