@@ -1,0 +1,26 @@
+{
+	"name": "BIG BALLS",
+	"title": "BIG HUGE BALLS FUNNY BALLS",
+	"description": "BIG BOOBS AND BALLS",
+	"author": "Comn<3",
+	"version": "6.9.420",
+	"minimumCoreVersion": "8",
+	"compatibleCoreVersion": "9",
+
+	"esmodules": [
+		
+	],
+	"packs": [
+		{
+			
+		}
+	],
+	"styles": [
+		"/styles/ATL.css"
+	  ],
+	"url": "",
+	"manifest": "",
+	"download": "",
+	"allowBugReporter": false,
+	"bugs": ""
+}
